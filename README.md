@@ -28,5 +28,6 @@
 
 Sou apaixonada por tecnologia e estou sempre em busca de aprimorar meus conhecimentos, pois acredito que o céu é o limite!
 
+
 ![Snake animation](https://github.com/Naianefer/Naianefer/blob/output/github-contribution-grid-snake.svg)
 
